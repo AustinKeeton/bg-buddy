@@ -1,0 +1,5 @@
+# secrets and personal health data never leave this machine
+config.json
+readings.csv
+notebook.md
+messages.log

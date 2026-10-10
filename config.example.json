@@ -1,0 +1,8 @@
+{
+  "dexcom_username": "you@example.com",
+  "dexcom_password": "your-dexcom-password",
+  "dexcom_region": "us",
+  "anthropic_api_key": "sk-ant-...",
+  "low": 70,
+  "high": 250
+}
